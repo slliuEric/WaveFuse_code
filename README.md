@@ -2,6 +2,7 @@ WaveFuse: A Unified Deep Framework for Image Fusion with Discrete Wavelet Transf
 =====
 Liu S, Song Z, Wang M. WaveFuse: A Unified Deep Framework for Image Fusion with Wavelet Transform[J]. arXiv preprint arXiv:2007.14110, 2020.
 https://arxiv.org/abs/2007.14110
+The code will be released soon!
 
 :clipboard:Introduction
 -----
