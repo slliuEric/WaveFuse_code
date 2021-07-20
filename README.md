@@ -1,4 +1,4 @@
-WaveFuse: A Unified Deep Framework for Image Fusion with Discrete Wavelet Transform
+WaveFuse: A Unified Deep Framework for Image Fusion with Discrete Wavelet Transform--supplementary materials
 =====
 Liu S,  Wang M, Song Z. WaveFuse: A Unified Deep Framework for Image Fusion with Wavelet Transform[J]. arXiv preprint arXiv:2007.14110, 2020.
 https://arxiv.org/abs/2007.14110
@@ -7,7 +7,7 @@ https://arxiv.org/abs/2007.14110
 :bulb:The code will be released soon!
 ------
 
-:clipboard:Introduction
+<!-- :clipboard:Introduction
 -----
 
 ![image](https://github.com/moveERIC/WaveFuse/raw/master/figures/network.png)
@@ -38,3 +38,4 @@ Please cite this paper if you want to use it in your work,
 :heart:Acknowledgement
 -----
 Some of the code in this repoistory was taken (and modified according to needs) from the following source:[[DenseFuse]](https://github.com/xsxjtu/densefuse_pytorch)
+ -->
